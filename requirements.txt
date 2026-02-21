@@ -1,0 +1,7 @@
+kivy==2.2.1
+pyTelegramBotAPI
+opencv-python
+jnius
+sounddevice
+scipy
+geopy
